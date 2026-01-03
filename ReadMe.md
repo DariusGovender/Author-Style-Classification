@@ -79,7 +79,7 @@ Key insights showed that Stephen King’s writing tends to be longer and more de
 
 ---
 
-## 📈 Results
+## Results
 - The model demonstrates strong discriminative ability between author writing styles.
 - Performs exceptionally well at identifying Stephen King’s writing.
 - Slight classification bias observed toward Stephen King.
@@ -87,7 +87,7 @@ Key insights showed that Stephen King’s writing tends to be longer and more de
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python  
 - PySpark  
 - Pandas, NumPy  
@@ -97,7 +97,7 @@ Key insights showed that Stephen King’s writing tends to be longer and more de
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 This project successfully demonstrates how LSTM-based deep learning models can be applied to author classification using textual data. While minor class bias exists, the model achieves strong overall performance and effectively captures stylistic differences between authors.
 
 Future improvements may include:
